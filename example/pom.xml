@@ -24,7 +24,7 @@
 
 	<scm>
 		<url>https://github.com/abdulrab09/github-maven-example</url>
-		<connection>scm:git:git://github.com/kevinsawicki/github-maven-example.git</connection>
+		<connection>scm:git:git://github.com/abdulrab09/github-maven-example.git</connection>
 		<developerConnection>scm:git:git@github.com:kevinsawicki/github-maven-example.git</developerConnection>
 	</scm>
 
